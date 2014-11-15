@@ -7,7 +7,7 @@ namespace cSharMisc02
   {
     public event EventHandler RoepEvent;
     /// <summary>
-    /// put your summary here
+    /// put your summary here!
     /// </summary>
     public void Roep()
       {
