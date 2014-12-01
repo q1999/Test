@@ -5,6 +5,9 @@ namespace cSharMisc02
 {
   public class Program
   {
+    /// <summary>
+    ///   
+    /// </summary>
     public static void Main(String[] args)
       {
         Kind kind1 = new Kind();
